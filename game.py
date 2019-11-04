@@ -1,5 +1,7 @@
 from random import randnt
 
+#modification 1
+
 """Give a name and make comments"""
 
 def initCache(nbColors=6,nbPawns=4):
